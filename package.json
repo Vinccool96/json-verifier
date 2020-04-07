@@ -1,0 +1,17 @@
+{
+  "name": "json-verifier",
+  "version": "0.0.1",
+  "description": "verifies JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Vincent Girard",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinccool96/json-verifier.git"
+  }
+}
