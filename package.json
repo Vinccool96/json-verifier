@@ -4,9 +4,21 @@
   "description": "verifies JSON objects",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha ./tests/"
+    "test": "mocha ./tests/ ./tests/core"
   },
-  "keywords": [],
+  "keywords": [
+    "object",
+    "api",
+    "validator",
+    "verifier",
+    "check",
+    "checker",
+    "json",
+    "schema",
+    "verifier",
+    "verify",
+    "validate"
+  ],
   "author": "Vincent Girard",
   "license": "ISC",
   "repository": {
