@@ -4,7 +4,7 @@
   "description": "verifies JSON objects",
   "main": "src/index",
   "scripts": {
-    "test": "mocha ./tests/ ./tests/core"
+    "test": "preview && mocha ./tests/ ./tests/core"
   },
   "keywords": [
     "object",
@@ -26,6 +26,7 @@
     "url": "git+https://github.com/Vinccool96/json-verifier.git"
   },
   "devDependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^7.1.1",
+    "package-preview": "^3.0.0"
   }
 }
