@@ -2,7 +2,7 @@
   "name": "json-verifier",
   "version": "0.0.1",
   "description": "verifies JSON objects",
-  "main": "src/index.js",
+  "main": "src/index",
   "scripts": {
     "test": "mocha ./tests/ ./tests/core"
   },
