@@ -38,6 +38,8 @@ class Model {
         }
         return matches;
     };
+
+    types = {Union, Any};
 }
 
 const createJsonType = (definition) => {

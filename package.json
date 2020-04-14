@@ -1,6 +1,6 @@
 {
   "name": "json-verifier",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "verifies JSON objects",
   "main": "src/index",
   "scripts": {
